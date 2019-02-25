@@ -1,0 +1,17 @@
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistryUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistryUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistryUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistryUnitTests\bin\Debug\SearchWindowsRegistryUnitTests.dll
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistryUnitTests\bin\Debug\SearchWindowsRegistryUnitTests.pdb
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistryUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistryUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistryUnitTests\bin\Debug\SearchWindowsRegistry.exe
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistryUnitTests\bin\Debug\SearchWindowsRegistry.pdb
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistryUnitTests\bin\Debug\SearchWindowsRegistry.exe.config
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistryUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistryUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistryUnitTests\obj\Debug\SearchWindowsRegistryUnitTests.csprojAssemblyReference.cache
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistryUnitTests\obj\Debug\SearchWindowsRegistryUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistryUnitTests\obj\Debug\SearchWindowsRegistryUnitTests.csproj.CopyComplete
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistryUnitTests\obj\Debug\SearchWindowsRegistryUnitTests.dll
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistryUnitTests\obj\Debug\SearchWindowsRegistryUnitTests.pdb

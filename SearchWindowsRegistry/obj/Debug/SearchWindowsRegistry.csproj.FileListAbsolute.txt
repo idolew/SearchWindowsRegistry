@@ -1,0 +1,10 @@
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistry\bin\Debug\SearchWindowsRegistry.exe.config
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistry\bin\Debug\SearchWindowsRegistry.exe
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistry\bin\Debug\SearchWindowsRegistry.pdb
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistry\obj\Debug\SearchWindowsRegistry.csprojAssemblyReference.cache
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistry\obj\Debug\SearchWindowsRegistry.Form1.resources
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistry\obj\Debug\SearchWindowsRegistry.Properties.Resources.resources
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistry\obj\Debug\SearchWindowsRegistry.csproj.GenerateResource.cache
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistry\obj\Debug\SearchWindowsRegistry.csproj.CoreCompileInputs.cache
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistry\obj\Debug\SearchWindowsRegistry.exe
+C:\Users\Ido\Documents\Projects\SearchWindowsRegistry\SearchWindowsRegistry\obj\Debug\SearchWindowsRegistry.pdb
